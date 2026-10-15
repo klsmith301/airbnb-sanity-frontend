@@ -9,8 +9,9 @@ This is the frontend for an AirBnB clone that showcases properties fetched from 
 - **Google Maps Integration**: Interactive maps powered by the Google Maps API with location markers for properties
 - **Image Management**: Optimized image serving from Sanity with dynamic URL builders for various dimensions and formats
 
-## Key Pages
+## Pages
 
+- [Home Page Details](home-page-details.md): dashboard layout, property feed, DashboardMap component, and server-side data fetching
 - [Coding standards](coding-standards.md): languages, tooling, formatting, testing, and naming conventions
 - [Architecture decisions](architecture-decisions.md): components, data flow, and technology choices
 - [Known issues](known-issues.md): limitations and outstanding work
