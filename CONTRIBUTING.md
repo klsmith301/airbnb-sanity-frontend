@@ -1,0 +1,3 @@
+# Contributing
+
+To run the **Airbnb Sanity.io Frontend** project locally, start by cloning the repository and setting up your environment. Create a `.env.local` file in the repository root with the required environment variables: `NEXT_PUBLIC_SANITY_PROJECT_ID` (your Sanity project ID), `NEXT_PUBLIC_SANITY_DATASET` (your Sanity dataset name, defaults to `production`), and `NEXT_PUBLIC_GOOGLE_MAPS_API_KEY` (your Google Maps API key). Next, install the dependencies by running `npm i` and start the development server with `npm run dev`. Once the server is running, open your browser and navigate to `http://localhost:3000` to see the application in action.
